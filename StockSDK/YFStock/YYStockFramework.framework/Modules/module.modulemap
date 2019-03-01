@@ -1,0 +1,6 @@
+framework module YYStockFramework {
+  umbrella header "YYStockFramework.h"
+
+  export *
+  module * { export * }
+}

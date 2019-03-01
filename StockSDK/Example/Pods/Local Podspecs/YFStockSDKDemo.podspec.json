@@ -1,0 +1,46 @@
+{
+  "name": "YFStockSDKDemo",
+  "version": "0.0.1",
+  "summary": "YYStockDemo",
+  "homepage": "https://github.com/TTube/SDKDemo",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright (c) 2018 yff. All rights reserved.\n"
+  },
+  "authors": {
+    "yff": "developer@yff.com"
+  },
+  "source": {
+    "git": "https://github.com/TTube/SDKDemo.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "resources": "YFStock/StockResource.bundle",
+  "vendored_frameworks": "YFStock/*.framework",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "CocoaLumberjack": [
+
+    ],
+    "SSZipArchive": [
+
+    ]
+  }
+}

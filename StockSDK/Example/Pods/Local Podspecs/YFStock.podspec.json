@@ -1,0 +1,22 @@
+{
+  "name": "YFStock",
+  "version": "0.1.0",
+  "summary": "A short description of YFStock.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/陈嘉维/YFStock",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈嘉维": "galvin.chen@ruifusoft.com"
+  },
+  "source": {
+    "git": "https://github.com/陈嘉维/YFStock.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFStock/Classes/**/*"
+}

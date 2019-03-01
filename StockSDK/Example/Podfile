@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YYStockSDKDemo' do
+  pod 'YFStockSDKDemo', :path => '../'
+  
+  
+end
