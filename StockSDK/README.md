@@ -1,9 +1,9 @@
-# YFStock
+# YFStockSDKDemo
 
-[![CI Status](https://img.shields.io/travis/陈嘉维/YFStock.svg?style=flat)](https://travis-ci.org/陈嘉维/YFStock)
-[![Version](https://img.shields.io/cocoapods/v/YFStock.svg?style=flat)](https://cocoapods.org/pods/YFStock)
-[![License](https://img.shields.io/cocoapods/l/YFStock.svg?style=flat)](https://cocoapods.org/pods/YFStock)
-[![Platform](https://img.shields.io/cocoapods/p/YFStock.svg?style=flat)](https://cocoapods.org/pods/YFStock)
+[![CI Status](https://img.shields.io/travis/陈嘉维/YFStockSDKDemo.svg?style=flat)](https://travis-ci.org/陈嘉维/YFStockSDKDemo)
+[![Version](https://img.shields.io/cocoapods/v/YFStockSDKDemoDemo.svg?style=flat)](https://cocoapods.org/pods/YFStockSDKDemo)
+[![License](https://img.shields.io/cocoapods/l/YFStockSDKDemo.svg?style=flat)](https://cocoapods.org/pods/YFStockSDKDemo)
+[![Platform](https://img.shields.io/cocoapods/p/YFStockSDKDemo.svg?style=flat)](https://cocoapods.org/pods/YFStockSDKDemo)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-YFStock is available through [CocoaPods](https://cocoapods.org). To install
+YFStockSDKDemo is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'YFStock'
+pod 'YFStockSDKDemo'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ developer@yff.com
 
 ## License
 
-YFStock is available under the MIT license. See the LICENSE file for more info.
+YFStockSDKDemo is available under the MIT license. See the LICENSE file for more info.
